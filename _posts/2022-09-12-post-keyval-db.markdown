@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[EN] How to write a key-value database with Rust"
+title:  "[EN] How to Write a Key-Value Database with Rust"
 categories: programming
 ---
 # Table of Contents
