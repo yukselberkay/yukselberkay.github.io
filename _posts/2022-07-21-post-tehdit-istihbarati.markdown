@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[TR] Tehdit İstihbaratı Nedir ?"
-categories: jekyll update
+categories: security
 ---
 
 Tehdit istihbaratı kısaca kurumlara ve kuruluşlara siber dünya üzerinden herhangi bir şekilde tehdit olabilecek unsurların saptanması ve bu unsurlara karşı önlem alınmasıdır.

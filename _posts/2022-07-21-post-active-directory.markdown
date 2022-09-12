@@ -2,7 +2,7 @@
 layout: post
 title:  "[TR] Windows Active Directory Ortamı Nedir, Nasıl
 Çalışır, Nasıl Saldırılabilir ?"
-categories: jekyll update
+categories: security
 ---
 
 # İçindekiler
